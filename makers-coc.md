@@ -4,7 +4,7 @@
 違いを喜び、変化を楽しみ、「つくる」をみんなでおもしろがる。
 
 ## 3つの行動原則　- 実現のためのキーワード -
-* 分かち合う (Share)
+* 分かち合う (Share) ![share icon](logos/noun_Conversation_329811_resize.png | height=30)
 * 認め合う (Recognize)　
 * 話し合う (Communicate)　
 
